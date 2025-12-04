@@ -66,19 +66,19 @@ Enter longitude: 73.0479
 ...
 
 ## **Project Structure**
-Disaster_Weather_Aggregator/
-│
-├── clients/
-│   ├── base_client.py
-│   ├── weather_alert_client.py
-│   └── earthquake_client.py
-│
-├── aggregator.py         # Combines API results into a unified report
-├── logger.py             # Handles logging for errors/events
-├── main.py               # Main program; runs the system
-├── requirements.txt
-├── .env.example          # Template for API keys
-└── README.md
+Disaster_Weather_Aggregator/  
+│  
+├── clients/  
+│   ├── base_client.py  
+│   ├── weather_alert_client.py  
+│   └── earthquake_client.py  
+│  
+├── aggregator.py         # Combines API results into a unified report  
+├── logger.py             # Handles logging for errors/events  
+├── main.py               # Main program; runs the system  
+├── requirements.txt  
+├── .env.example          # Template for API keys  
+└── README.md  
 
 ## **Logging**
 All errors, exceptions, and key events are logged using logger.py to:
