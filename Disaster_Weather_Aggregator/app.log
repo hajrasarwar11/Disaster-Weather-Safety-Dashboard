@@ -1,0 +1,45 @@
+2025-12-05 00:34:26,293 - INFO - === Disaster & Weather Safety Dashboard Started ===
+2025-12-05 00:35:04,760 - INFO - User entered coordinates: latitude=35.6895, longitude=139.6917
+2025-12-05 00:35:05,841 - INFO - Weather data fetched successfully for (35.6895, 139.6917)
+2025-12-05 00:35:06,761 - INFO - Earthquake data fetched successfully for magnitude=2.5, timeframe=day
+2025-12-05 00:35:06,761 - INFO - Combined report fetched successfully.
+2025-12-05 00:35:06,762 - INFO - Weather alert displayed: Weather: Clouds (few clouds), Temp: 4.83°C
+2025-12-05 00:35:06,763 - INFO - Earthquake displayed: M 5.3 - Kermadec Islands region
+2025-12-05 00:35:06,764 - INFO - Earthquake displayed: M 3.67 - 88 km NNE of Luquillo, Puerto Rico
+2025-12-05 00:35:06,764 - INFO - Earthquake displayed: M 4.5 - South of Lombok, Indonesia
+2025-12-05 00:35:06,764 - INFO - Earthquake displayed: M 3.9256818577504133 - 33 km NNW of Eagle, Alaska
+2025-12-05 00:35:06,764 - INFO - Earthquake displayed: M 4.7 - South Sandwich Islands region
+2025-12-05 00:35:06,765 - INFO - Earthquake displayed: M 3.13 - 77 km NNE of Luquillo, Puerto Rico
+2025-12-05 00:35:06,765 - INFO - Earthquake displayed: M 3.83 - 47 km NNE of Cruz Bay, U.S. Virgin Islands
+2025-12-05 00:35:06,765 - INFO - Earthquake displayed: M 2.6844392937275785 - 85 km SSE of Chenega, Alaska
+2025-12-05 00:35:06,765 - INFO - Earthquake displayed: M 2.66 - 21 km NNE of San Simeon, CA
+2025-12-05 00:35:06,766 - INFO - Earthquake displayed: M 4.6 - 72 km WNW of Modisi, Indonesia
+2025-12-05 00:35:06,766 - INFO - Earthquake displayed: M 3.34 - 77 km N of Culebra, Puerto Rico
+2025-12-05 00:35:06,766 - INFO - Earthquake displayed: M 3.8 - 94 km SSE of Sand Point, Alaska
+2025-12-05 00:35:06,766 - INFO - Earthquake displayed: M 4.8 - 63 km E of Petropavlovsk-Kamchatsky, Russia
+2025-12-05 00:35:06,766 - INFO - Earthquake displayed: M 2.6 - 150 km W of Ferndale, California
+2025-12-05 00:35:06,767 - INFO - Earthquake displayed: M 5.1 - southern Mid-Atlantic Ridge
+2025-12-05 00:35:06,767 - INFO - Earthquake displayed: M 4.8 - 177 km WNW of Panguna, Papua New Guinea
+2025-12-05 00:35:06,767 - INFO - Earthquake displayed: M 3.38 - 85 km NNE of Luquillo, Puerto Rico
+2025-12-05 00:35:06,767 - INFO - Earthquake displayed: M 2.6058920091601823 - 33 km SW of Lake Minchumina, Alaska
+2025-12-05 00:35:06,768 - INFO - Earthquake displayed: M 3.1 - 38 km NNW of Toyah, Texas
+2025-12-05 00:35:06,768 - INFO - Earthquake displayed: M 5.8 - 138 km NNW of Tumxuk, China
+2025-12-05 00:35:06,768 - INFO - Earthquake displayed: M 2.73 - 25 km NW of Rincón, Puerto Rico
+2025-12-05 00:35:06,769 - INFO - Earthquake displayed: M 2.8 - 238 km W of Gold Beach, Oregon
+2025-12-05 00:35:06,769 - INFO - Earthquake displayed: M 2.77 - 78 km NE of Tonopah, Nevada
+2025-12-05 00:35:06,769 - INFO - Earthquake displayed: M 3.059156117103804 - 50 km SE of Central, Alaska
+2025-12-05 00:35:06,769 - INFO - Earthquake displayed: M 4.8 - Pagan region, Northern Mariana Islands
+2025-12-05 00:35:06,770 - INFO - Earthquake displayed: M 5.3 - Fiji region
+2025-12-05 00:35:06,770 - INFO - Earthquake displayed: M 4.9 - 159 km ESE of Modisi, Indonesia
+2025-12-05 00:35:06,770 - INFO - Earthquake displayed: M 3.18 - 46 km NNW of San Antonio, Puerto Rico
+2025-12-05 00:35:06,770 - INFO - Earthquake displayed: M 5.3 - 1 km WNW of El Morro, Mexico
+2025-12-05 00:35:06,770 - INFO - Earthquake displayed: M 4.6 - 35 km SE of Tobelo, Indonesia
+2025-12-05 00:35:06,771 - INFO - Earthquake displayed: M 5.1 - Pacific-Antarctic Ridge
+2025-12-05 00:35:06,771 - INFO - Earthquake displayed: M 5.5 - Pacific-Antarctic Ridge
+2025-12-05 00:35:06,771 - INFO - Earthquake displayed: M 3.41 - 48 km SSE of Boca de Yuma, Dominican Republic
+2025-12-05 00:35:06,771 - INFO - Earthquake displayed: M 3.268224719292472 - 61 km E of Chignik, Alaska
+2025-12-05 00:35:06,772 - INFO - Earthquake displayed: M 4.1 - 6 km ESE of Dhaka, Bangladesh
+2025-12-05 00:35:06,772 - INFO - Earthquake displayed: M 3.4 - 3 km E of Warton, United Kingdom
+2025-12-05 00:35:06,772 - INFO - Earthquake displayed: M 4.2 - 42 km NE of Castlepoint, New Zealand
+2025-12-05 00:35:06,772 - INFO - Earthquake displayed: M 4.5 - 38 km NNE of Castlepoint, New Zealand
+2025-12-05 00:35:06,773 - INFO - Earthquake displayed: M 2.6 - 42 km WSW of Olancha, CA
